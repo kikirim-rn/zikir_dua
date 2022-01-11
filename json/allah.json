@@ -1,0 +1,497 @@
+[
+    {
+        "id": 1,
+        "name": "Allah:",
+        "descp": "Eşi benzeri bulunmayan."
+    },
+    {
+        "id": 2,
+        "name": "Er-Rahmân:",
+        "descp": "Yaratılmışlara merhamet eden"
+    },
+    {
+        "id": 3,
+        "name": "Er-Rahim:",
+        "descp": "Ahirette, müminlere sonsuz ihsanda, lütufta ve ikramda bulunan."
+    },
+    {
+        "id": 4,
+        "name": "El-Melik:",
+        "descp": "Kainatın sahibi, mülk ve saltanatı sürekli olan."
+    },
+    {
+        "id": 5,
+        "name": "El-Kuddûs:",
+        "descp": "Her türlü eksiklikten uzak olan."
+    },
+    {
+        "id": 6,
+        "name": "Es-Selâm:",
+        "descp": "Her tehlikeden selamete çıkaran."
+    },
+    {
+        "id": 7,
+        "name": "El-Mü'min:",
+        "descp": "Güven veren, koruyan."
+    },
+    {
+        "id": 8,
+        "name": "El-Müheymin:",
+        "descp": "Her şeyi gören gözeten."
+    },
+    {
+        "id": 9,
+        "name": "El-Azîz:",
+        "descp": "İzzet sahibi, her şeyin galibi."
+    },
+    {
+        "id": 10,
+        "name": "El-Cebbâr:",
+        "descp": "Kudret ve azamet sahibi."
+    },
+    {
+        "id": 11,
+        "name": "El-Mütekebbir:",
+        "descp": "Büyüklükte eşi ve benzeri olmayan."
+    },
+    {
+        "id": 11,
+        "name": "El-Hâlık:",
+        "descp": "Yaratan"
+    },
+    {
+        "id": 13,
+        "name": "El-Bâri:",
+        "descp": "Her şeyi uyumlu ve kusursuz yaratan."
+    },
+    {
+        "id": 14,
+        "name": "El-Musavvir:",
+        "descp": "Varlıklara şekillerini veren."
+    },
+    {
+        "id": 15,
+        "name": "El-Gaffâr:",
+        "descp": "Çok mağfiret eden."
+    },
+    {
+        "id": 16,
+        "name": "El-Kahhâr:",
+        "descp": "Her şeye hakim ve galip olan."
+    },
+    {
+        "id": 17,
+        "name": "El-Vehhâb:",
+        "descp": "Karşılıksız hibeler veren."
+    },
+    {
+        "id": 18,
+        "name": "Er-Rezzâk:",
+        "descp": "Rızkını veren."
+    },
+    {
+        "id": 19,
+        "name": "El-Fettâh:",
+        "descp": "Darlıktan kurtaran."
+    },
+    {
+        "id": 20,
+        "name": "El-Alîm:",
+        "descp": "Her şeyi en küçük detaylarını bilen."
+    },
+    {
+        "id": 21,
+        "name": "El-Kâbıd:",
+        "descp": "Dilediğine darlık veren."
+    },
+    {
+        "id": 22,
+        "name": "El-Bâsıt:",
+        "descp": "Dilediğine bolluk veren."
+    },
+    {
+        "id": 23,
+        "name": "El-Hâfıd:",
+        "descp": "Dereceleri alçaltan"
+    },
+    {
+        "id": 24,
+        "name": "Er-Râfi:",
+        "descp": "Şeref vererek yükselten."
+    },
+    {
+        "id": 25,
+        "name": "El-Mu'ız:",
+        "descp": "Dilediğini aziz eden."
+    },
+    {
+        "id": 26,
+        "name": "El-Müzil:",
+        "descp": "Dilediğini zillete düşüren."
+    },
+    {
+        "id": 27,
+        "name": "Es-Semi:",
+        "descp": "Her şeyi işiten."
+    },
+    {
+        "id": 28,
+        "name": "El-Basîr:",
+        "descp": "Her şeyi en iyi gören."
+    },
+    {
+        "id": 29,
+        "name": "El-Hakem:",
+        "descp": "Mutlak hakim olan. Hikmetle hükmeden."
+    },
+    {
+        "id": 30,
+        "name": "El-Adl:",
+        "descp": "Mutlak adil olan."
+    },
+    {
+        "id": 31,
+        "name": "El-Latîf:",
+        "descp": "Bütün incelikleri bilen."
+    },
+    {
+        "id": 32,
+        "name": "El-Habîr:",
+        "descp": "Her şeyden haberdar."
+    },
+    {
+        "id": 33,
+        "name": "El-Halîm:",
+        "descp": "Cezada, acele etmeyen."
+    },
+    {
+        "id": 34,
+        "name": "El-Azîm:",
+        "descp": "Pek yüce."
+    },
+    {
+        "id": 35,
+        "name": "El-Gafûr:",
+        "descp": "Mağfireti bol."
+    },
+    {
+        "id": 36,
+        "name": "Eş-Şekûr:",
+        "descp": "Çok sevap veren."
+    },
+    {
+        "id": 37,
+        "name": "El-Aliyy:",
+        "descp": "Yüceler yücesi."
+    },
+    {
+        "id": 38,
+        "name": "El-Kebîr:",
+        "descp": "Çok büyük olan."
+    },
+    {
+        "id": 39,
+        "name": "El-Hafîz:",
+        "descp": "Her şeyi koruyan."
+    },
+    {
+        "id": 40,
+        "name": "El-Mukît:",
+        "descp": "Her yaratılmışın rızkını veren."
+    },
+    {
+        "id": 41,
+        "name": "El-Hasîb:",
+        "descp": "Kulların hesabını gören."
+    },
+    {
+        "id": 42,
+        "name": "El-Celîl:",
+        "descp": "Azamet sahibi olan."
+    },
+    {
+        "id": 43,
+        "name": "El-Kerîm:",
+        "descp": "Çok ikram eden."
+    },
+    {
+        "id": 44,
+        "name": "Er-Rakîb:",
+        "descp": "Her an gören gözeten."
+    },
+    {
+        "id": 45,
+        "name": "El-Mucîb:",
+        "descp": "Duaları kabul eden."
+    },
+    {
+        "id": 46,
+        "name": "El-Vâsi:",
+        "descp": "İlmi ile her şeyi kuşatan."
+    },
+    {
+        "id": 47,
+        "name": "El-Hakîm:",
+        "descp": "Her işi hikmetli."
+    },
+    {
+        "id": 48,
+        "name": "El-Vedûd:",
+        "descp": "Kullarını seven, sevilmeye en layık olan."
+    },
+    {
+        "id": 49,
+        "name": "El-Mecîd:",
+        "descp": "Övgüye layık bulunan."
+    },
+    {
+        "id": 50,
+        "name": "El-Bâis:",
+        "descp": "Ölüleri dirilten."
+    },
+    {
+        "id": 51,
+        "name": "Eş-Şehîd:",
+        "descp": "Her yerde her zaman hazır olan."
+    },
+    {
+        "id": 52,
+        "name": "El-Hakk:",
+        "descp": "Var olan, hakkı gösteren."
+    },
+    {
+        "id": 53,
+        "name": "El-Vekîl:",
+        "descp": "Kendisine tevekkül edenlerin her işini yoluna koyan."
+    },
+    {
+        "id": 54,
+        "name": "El-Kaviyy:",
+        "descp": "Kudreti en üstün."
+    },
+    {
+        "id": 55,
+        "name": "El-Metîn:",
+        "descp": "Çok güçlü."
+    },
+    {
+        "id": 56,
+        "name": "El-Veliyy:",
+        "descp": "İnananların dostu."
+    },
+    {
+        "id": 57,
+        "name": "El-Hamîd:",
+        "descp": "Hamd ve senaya layık olan."
+    },
+    {
+        "id": 58,
+        "name": "El-Muhsî:",
+        "descp": "Tüm varlıkların sayısını bilen."
+    },
+    {
+        "id": 59,
+        "name": "El-Mübdi:",
+        "descp": "Örneksiz yaratan."
+    },
+    {
+        "id": 60,
+        "name": "El-Muîd:",
+        "descp": "Yeniden diriten."
+    },
+    {
+        "id": 61,
+        "name": "El-Muhyî:",
+        "descp": "Can veren."
+    },
+    {
+        "id": 62,
+        "name": "El-Mümît:",
+        "descp": "Ölümü yaratan."
+    },
+    {
+        "id": 63,
+        "name": "El-Hayy:",
+        "descp": "Sonsuz hayat sahibi."
+    },
+    {
+        "id": 64,
+        "name": "El-Kayyûm:",
+        "descp": "Varlıkları diri tutan."
+    },
+    {
+        "id": 65,
+        "name": "El-Vâcid:",
+        "descp": "İstediğini bulan."
+    },
+    {
+        "id": 66,
+        "name": "El-Macîd:",
+        "descp": "Kadri ve şanı büyük."
+    },
+    {
+        "id": 67,
+        "name": "El-Vâhid:",
+        "descp": "Fiillerinde, sıfatlarında ve zatında eşi benzeri olmayan."
+    },
+    {
+        "id": 68,
+        "name": "Es-Samed:",
+        "descp": "Herkesin muhtaç olduğu."
+    },
+    {
+        "id": 69,
+        "name": "El-Kâdir:",
+        "descp": "Dilediğini yapan."
+    },
+    {
+        "id": 70,
+        "name": "El-Muktedir:",
+        "descp": "Dilediği gibi tasarruf eden."
+    },
+    {
+        "id": 71,
+        "name": "El-Mukaddim:",
+        "descp": "Dilediğini yükselten."
+    },
+    {
+        "id": 72,
+        "name": "El-Muahhir:",
+        "descp": "Dilediğini alçaltan."
+    },
+    {
+        "id": 73,
+        "name": "El-Evvel:",
+        "descp": "Ezeli olan."
+    },
+    {
+        "id": 74,
+        "name": "El-Âhir:",
+        "descp": "Ebedi olan."
+    },
+    {
+        "id": 75,
+        "name": "El-Zâhir:",
+        "descp": "Varlığı açık olan."
+    },
+    {
+        "id": 76,
+        "name": "El-Bâtın:",
+        "descp": "Yüceliği gizli olan."
+    },
+    {
+        "id": 77,
+        "name": "El-Vâlî:",
+        "descp": "Kainatı idare eden."
+    },
+    {
+        "id": 78,
+        "name": "El-Müteâlî:",
+        "descp": "Yüce olan."
+    },
+    {
+        "id": 79,
+        "name": "El-Berr:",
+        "descp": "İyilik ve ihsanı bol."
+    },
+    {
+        "id": 80,
+        "name": "Et-Tevvâb:",
+        "descp": "Günahları bağışlayan."
+    },
+    {
+        "id": 81,
+        "name": "El-Müntekim:",
+        "descp": "İntikam alan."
+    },
+    {
+        "id": 82,
+        "name": "El-Afüvv:",
+        "descp": "Affı çok olan."
+    },
+    {
+        "id": 83,
+        "name": "Er-Raûf:",
+        "descp": "Çok merhametli."
+    },
+    {
+        "id": 84,
+        "name": "Mâlik-ül Mülk:",
+        "descp": "Her varlığın sahibi."
+    },
+    {
+        "id": 85,
+        "name": "Zül-Celâli Vel İkrâm:",
+        "descp": "Celal, azamet sahibi."
+    },
+    {
+        "id": 86,
+        "name": "El-Muksit:",
+        "descp": "Her işi birbirine denk yapan."
+    },
+    {
+        "id": 87,
+        "name": "El-Câmi:",
+        "descp": "Mahşerde bir araya toplayan."
+    },
+    {
+        "id": 88,
+        "name": "El-Ganiyy:",
+        "descp": "İhtiyacı olmayan."
+    },
+    {
+        "id": 89,
+        "name": "El-Mugnî:",
+        "descp": "Müstağni kılan."
+    },
+    {
+        "id": 90,
+        "name": "El-Mâni:",
+        "descp": "Dilemediği şeyi engelleyen."
+    },
+    {
+        "id": 91,
+        "name": "Ed-Dârr:",
+        "descp": "Zarar verenleri yaratan."
+    },
+    {
+        "id": 92,
+        "name": "En-Nâfi:",
+        "descp": "Fayda verenleri yaratan."
+    },
+    {
+        "id": 93,
+        "name": "En-Nûr:",
+        "descp": "Alemleri nurlandıran."
+    },
+    {
+        "id": 94,
+        "name": "El-Hâdî:",
+        "descp": "Hidayet veren."
+    },
+    {
+        "id": 95,
+        "name": "El-Bedî:",
+        "descp": "Eşsiz yaratan."
+    },
+    {
+        "id": 96,
+        "name": "El-Bâkî:",
+        "descp": "Ebedi olan."
+    },
+    {
+        "id": 97,
+        "name": "El-Vâris:",
+        "descp": "Her şeyin asıl sahibi olan."
+    },
+    {
+        "id": 98,
+        "name": "Er-Reşîd:",
+        "descp": "Doğru yolu gösteren."
+    },
+    {
+        "id": 99,
+        "name": "Es-Sabûr:",
+        "descp": "Cezada acele etmeyen."
+    }
+]

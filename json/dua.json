@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Hastalara şifa veren dua.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "Ezhibil-be'se rabben'nasi eşfi ve enteş'şafi la şifae illa \nşifauke şifaen la yugadiru sekame."
+    },
+    {
+        "id": 2,
+        "name": "Ezan duası.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "Allâhumme Rabbe hâzihi davetit tâmmeh, ve salâtil kâimeh, âti Muhammedenil vesîlete vel fadîlete, veb'ashü makâmem mahmûdenil lezî va'adteh."
+    },
+    {
+        "id": 3,
+        "name": "Hastanın iyileşmesi için dua.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "Allahümme innî es'elüke ve eteveccehü ileyke bi-Nebiyyike Muhammed’in Nebiyyirrahme, yâ Muhammed innî eteveccehü bike ilâ Rabbi fî hâcetî-hâzihî, li taktıye-li, Allahümme şeffi'hü fiyye"
+    },
+    {
+        "id": 4,
+        "name": "Yemek duası.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "Elhamdu lillâhi hamden kesîran mubâreken fîhi, ğayra mekfiyyin, ve lâ muveddein ve lâ musteğnen anhu Rabbenâ."
+    },
+    {
+        "id": 5,
+        "name": "Sağlık afiyet için dua.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "Allahümme innî es'elüke-ssıhhate vel-âfiyete vel-emânete ve hüsnel-hulkı verrıdâe bilkaderi birahmetike yâ Erhamerrâhimîn"
+    },
+    {
+        "id": 6,
+        "name": "Günahların affı için dua.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "Sübhânallahi ve bi-hamdihi sübhânallahil-azîm."
+    },
+    {
+        "id": 7,
+        "name": "Kalpte imanın olması için dua.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "Allahümme, yâ mukallibelkulûb, sebbit kalbî, alâ dînik"
+    },
+    {
+        "id": 8,
+        "name": "Zararlardan korunmak için dua.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "E’ûzü bikelimâtillâhit-tâmmâti min şerri külli şeytânin ve hâmmatin. Ve min şerri külli effâkin kâzibetin. Ve min şerri külli gammâzin hâinetin. Ve min şerri külli aynin lâmmetin. Ve min şerri külli bid’atin dâlletin."
+    },
+    {
+        "id": 9,
+        "name": "Çarşıya çıkarken okunacak dua.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "Lâ ilâhe illallahü vahde hü lâ şerîke leh, le hül mülkü ve le hül hamdü, yuhyî ve yümît, ve hüve hayyün lâ yemût, bi yedi-hil-hayr, ve hüve alâ külli şey’in kadîr."
+    },
+    {
+        "id": 10,
+        "name": "Fitneden korunmak için dua.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "Allahümme innî es'elü-ke fiilel hayrât ve terkelmünkerât ve hubbel-mesâkin ve izâ eredte fitneten fî kavmî fe-teveffenî gayre meftûn"
+    },
+    {
+        "id": 11,
+        "name": "Seyyidül istiğfar duası.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "Allahümme ente Rabbî lâ ilahe illâ ente halaktenî ve ene abdüke ve ene alâ ahdike ve vâ’dike mes’tetâtü eûzü bike min şerri mâ sanâtü ebû’ü leke bi-nîmetike aleyye ve ebû’ü bizenbî fağfirlî feinnehû lâ yağfıruz-zünûbe illâ ente."
+    },
+    {
+        "id": 12,
+        "name": "Borçtan kurtulma duası.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "Elem neşrah leke sadrek Ve vada'na'anke vizreke Elleziy enkada zahreke Ve refa'na leke zikreke Feinne me'al'usri yüsren İnne me'al'usri yüsren Feiza ferağte fensab Ve ila rabbike ferğab."
+    },
+    {
+        "id": 13,
+        "name": "Sıkıntıdan kurtulmak için dua.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "La ilahe illallahül halimül kerimü sübhanellahi ve tebarekellahü rabbül'arşil-azim vel hamdülillahi rabbil alemin."
+    },
+    {
+        "id": 14,
+        "name": "Üzüntülü anlarda okunacak dua.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "descp": "La ilahe illallahül'azim-ül-halim la ilaheillahü Rabbül'Arş-il'azim la ilaheillahü Rabbüs-semavati ve Rabbül-Erdı Rabbül'Arş-il-kerim"
+    },
+    {
+        "id": 15,
+        "name": "Uykudan kalkarken okunacak dua.",
+        "besmele": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "image": "assets/dualar/hastalarasifaverendualar.jpeg",
+        "descp": "El-hamdu lillahillezi ehyana ba'de ma ematena ve ileyhi'n-nüşur."
+    }
+]
